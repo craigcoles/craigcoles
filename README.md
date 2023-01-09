@@ -7,4 +7,4 @@
 
 ---
 
-<p align="center">I am a lead front-end developer at <a href="https://simpleweb.co.uk/">Simpleweb</a> working on software that improves peoples lives. For over 11 years, I've been providing my skills in front-end development, design and mobile app development.</p>
+<p align="center">I am a lead software engineer at <a href="https://www.asquared.uk/">ASquared</a> working on human-centred digital products that make a difference. For over 11 years, I've been providing my skills in front-end development, design and mobile app development.</p>
